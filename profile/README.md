@@ -1,1 +1,1 @@
-This is NSYSU Reinforcement Learning Course Page
+This is NSYSU Undergraduated Introduction to Reinforcement Learning Course Page
